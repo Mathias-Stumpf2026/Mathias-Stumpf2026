@@ -51,4 +51,4 @@ Analyse verschiedener Geschäftsfragen im E-Commerce-Kontext mit SQL und Tableau
 ## 📫 Kontakt
 
 - 📧 mathias.stumpf73@icloud.com
-- 💼 [LinkedIn-Profil hier einfügen]
+- 💼 www.linkedin.com/in/mathias-stumpf-6440823a4
